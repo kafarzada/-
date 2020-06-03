@@ -1,0 +1,18 @@
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\12345\Desktop\Интеллектуальные системы и технологии\Лаб 1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb

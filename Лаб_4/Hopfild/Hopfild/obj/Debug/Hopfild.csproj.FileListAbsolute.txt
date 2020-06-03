@@ -1,0 +1,9 @@
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\bin\Debug\Hopfild.exe.config
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\bin\Debug\Hopfild.exe
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\bin\Debug\Hopfild.pdb
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.csprojResolveAssemblyReference.cache
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.Form1.resources
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.Properties.Resources.resources
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.csproj.GenerateResource.Cache
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.exe
+C:\Users\Asus1\Desktop\Институт\3 курс\2 семестр\Интеллектуальные системы и технологии\Лаб 4\Hopfild\Hopfild\obj\Debug\Hopfild.pdb
